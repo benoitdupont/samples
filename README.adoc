@@ -1,0 +1,9 @@
+= samples
+
+Playground and demo space
+
+
+== Java 8 features
+
+* Playing with functional interfaces
+
